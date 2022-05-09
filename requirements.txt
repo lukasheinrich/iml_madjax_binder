@@ -1,5 +1,7 @@
 jax==0.3.10
 jaxlib==0.3.10
 vector
+matplotlib
+pylhe
 git+https://github.com/madjax-hep/madjax@master#egg=madjax
 
