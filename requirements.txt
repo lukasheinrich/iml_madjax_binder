@@ -1,2 +1,5 @@
+jax==0.3.10
+jaxlib==0.3.10
+vector
 git+https://github.com/madjax-hep/madjax@master#egg=madjax
 
